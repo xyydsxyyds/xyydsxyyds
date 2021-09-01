@@ -1,16 +1,17 @@
 ### Hi there 👋
+1.介绍我自己：
+- 兴趣爱好：爱打篮球，爱玩吃鸡
+- 学习经历：对各种计算机语言稍有研究
+- 性格：活泼，但不爱热闹
 
-<!--
-**xyydsxyyds/xyydsxyyds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2.软工五问题：
+- 软件工程怎么进行需求分析？
+- 怎么才能很好地维护软件？
+- 软件工程面对对象设计的准则是什么？
+- 怎么进行软件项目的管理？
+- 软件工程怎么建立工程模型？
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3.我想要收获：
+- 能够了解整个软件开发的合作过程
+- 能够正确地分析用户的需求
+- 提高自己的框架思维能力
